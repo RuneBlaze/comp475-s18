@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+bench.dSYM/
+cmake-build-debug/
+image.dSYM/
+tests.dSYM/

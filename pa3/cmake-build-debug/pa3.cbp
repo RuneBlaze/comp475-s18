@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pa3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lbq/hw/comp475/code/pa3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lbq/hw/comp475/code/pa3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lbq/hw/comp475/code/pa3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pa3">
+				<Option output="/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/pa3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lbq/hw/comp475/code/pa3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/lbq/hw/comp475/code/pa3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 pa3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pa3/fast">
+				<Option output="/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/pa3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lbq/hw/comp475/code/pa3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/lbq/hw/comp475/code/pa3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 pa3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/pa3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/MyShader.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/MyShader.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/GProxyCanvas.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/GRandom.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/GTime.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/GWindow.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/GWindow.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/bench.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/bench.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/bench_recs.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/bounce.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/draw.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/image.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/image.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/image_pa1.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/image_pa2.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/image_pa3.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/image_recs.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/paint.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/tests.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/tests.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/tests_recs.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/apps/viewer.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/clip.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/empty_canvas.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GBitmap.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GCanvas.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GColor.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GMath.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GMatrix.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GPaint.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GPixel.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GPoint.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GRect.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GShader.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GTime.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GTypes.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/include/GWindow.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/seg.h">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/src/GBitmap.cpp">
+			<Option target="pa3"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/pa3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

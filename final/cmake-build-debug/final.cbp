@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="final"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lbq/hw/comp475/code/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lbq/hw/comp475/code/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lbq/hw/comp475/code/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pa6">
+				<Option output="/Users/lbq/hw/comp475/code/final/cmake-build-debug/pa6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lbq/hw/comp475/code/final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/lbq/hw/comp475/code/final/."/>
+					<Add directory="/Users/lbq/hw/comp475/code/final/apps"/>
+					<Add directory="/Users/lbq/hw/comp475/code/final/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 pa6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pa6/fast">
+				<Option output="/Users/lbq/hw/comp475/code/final/cmake-build-debug/pa6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lbq/hw/comp475/code/final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/lbq/hw/comp475/code/final/."/>
+					<Add directory="/Users/lbq/hw/comp475/code/final/apps"/>
+					<Add directory="/Users/lbq/hw/comp475/code/final/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 pa6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/lbq/hw/comp475/code/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/MyFilter.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/MyMatrix.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/MyShader.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/MyShader.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/RadialGradientShader.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/TriangleGradient.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/bezier.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/blends.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/clip.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/color_gradient.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/empty_canvas.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GBitmap.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GBlendMode.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GCanvas.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GColor.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GFilter.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GMath.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GMatrix.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GPaint.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GPath.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GPixel.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GPoint.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GRect.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GShader.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GTime.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/include/GTypes.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/layer.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/path_impl.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/prelude.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/prelude.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/seg.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/src/GBitmap.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/src/GPath.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/stroked_line.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/tiling.cpp">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/tiling.h">
+			<Option target="pa6"/>
+		</Unit>
+		<Unit filename="/Users/lbq/hw/comp475/code/final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
